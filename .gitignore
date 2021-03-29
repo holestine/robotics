@@ -53,3 +53,5 @@ CATKIN_IGNORE
 
 # User Files
 notes
+.student_bashrc
+temp.trashinfo
