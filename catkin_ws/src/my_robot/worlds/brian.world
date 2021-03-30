@@ -958,28 +958,6 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='my_robot'>
-        <pose frame=''>-0.000377 -0.08566 0.1 3e-06 0.000146 0.002002</pose>
-        <scale>1 1 1</scale>
-        <link name='left_wheel'>
-          <pose frame=''>-0.000677 0.06434 0.1 4e-06 0.005979 0.002002</pose>
-          <velocity>-0.000134 0.000325 0.002551 -0.003249 -0.001341 2e-06</velocity>
-          <acceleration>0.069177 0.728914 5.10131 -0.229945 0.692463 0.000971</acceleration>
-          <wrench>0.345885 3.64457 25.5065 0 -0 0</wrench>
-        </link>
-        <link name='right_wheel'>
-          <pose frame=''>-7.6e-05 -0.235659 0.1 4e-06 0.009038 0.002002</pose>
-          <velocity>-0.000134 0.000335 0.003794 -0.003347 -0.001335 2e-06</velocity>
-          <acceleration>0.069265 0.748427 7.58761 -0.425219 0.698543 -0.000655</acceleration>
-          <wrench>0.346326 3.74214 37.9381 0 -0 0</wrench>
-        </link>
-        <link name='robot_footprint'>
-          <pose frame=''>-0.000377 -0.08566 0.1 3e-06 0.000146 0.002002</pose>
-          <velocity>-0.000134 0.000329 0.003167 -0.003489 -0.001342 3e-06</velocity>
-          <acceleration>0.069327 0.740714 6.3315 -0.705458 0.690811 0.00157</acceleration>
-          <wrench>1.04684 11.1848 95.6056 0 -0 0</wrench>
-        </link>
-      </model>
       <model name='water_tower'>
         <pose frame=''>10.7986 -22.6232 0 0 -0 0</pose>
         <scale>1 1 1</scale>
